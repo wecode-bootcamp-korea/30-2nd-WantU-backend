@@ -17,7 +17,7 @@
 2022.03.14 ~ 2022.03.25
 
 ### 시연 영상
-
+https://youtu.be/IJMrKpXhr3U
 
 
 ### DB modeling
